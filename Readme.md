@@ -1,7 +1,7 @@
 Download from here:
 ```
-https://github.com/id1945/metronic-admin
+https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0.zip
 ```
 ```
-https://gitlab.com/brahim.missaoui/metronic-8.2.0
+https://github.com/coreui
 ```
