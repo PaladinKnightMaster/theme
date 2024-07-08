@@ -11,3 +11,6 @@ https://github.com/technext/free-bundle-2022/releases/download/v1.1.0/free-bundl
 ```
 https://github.com/technext/titan
 ```
+```
+https://github.com/themewagon/ogani
+```
