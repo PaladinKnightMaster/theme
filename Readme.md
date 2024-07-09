@@ -3,6 +3,9 @@ Download from here:
 https://github.com/PaladinKnightMaster/theme/archive/refs/tags/v1.0.0.zip
 ```
 ```
+https://github.com/PaladinKnightMaster/skillup_codesignal/archive/refs/tags/v1.0.0.zip
+```
+```
 https://github.com/themewagon/Bundle-2023/releases/download/v1.0.0/Free.Bundle.2023.zip
 ```
 ```
