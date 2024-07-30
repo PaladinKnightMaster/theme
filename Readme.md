@@ -3,6 +3,9 @@ Download from here:
 https://github.com/PaladinKnightMaster/skillup_codesignal/archive/refs/tags/v1.1.0.zip
 ```
 ```
+https://github.com/PaladinKnightMaster/titan-master/archive/refs/tags/v1.0.0.zip
+```
+```
 https://github.com/PaladinKnightMaster/appstore-theme-record/archive/refs/tags/v1.0.0.zip
 ```
 ```
