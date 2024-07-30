@@ -3,6 +3,9 @@ Download from here:
 https://github.com/PaladinKnightMaster/skillup_codesignal/archive/refs/tags/v1.1.0.zip
 ```
 ```
+https://github.com/PaladinKnightMaster/appstore-theme-record/archive/refs/tags/v1.0.0.zip
+```
+```
 https://downloads.mysql.com/archives/get/p/23/file/MySQL-5.6.51-1.el7.x86_64.rpm-bundle.tar
 ```
 ```
