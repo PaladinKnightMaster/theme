@@ -1,8 +1,8 @@
 Download URL:
 ```
-https://www.dropbox.com/scl/fo/kzszubno53p3agzyd5m0c/AGI1J68lZhJKzvAix1Esk84?rlkey=nca06ubo0qcgetliiijjmlo8g&st=8kodtzke&dl=0
+https://mega.nz/file/CcVzHT7Q#51_DAHDx4c-t-d90U1bzToz8ri5MDjj91X8vupOJ60w
 ```
 
 ```
-https://www.dropbox.com/scl/fo/oo78jtnxtlntdrbgmxsiu/ACVHhxc5yYw1TsZqwD_lRK4?rlkey=rgvmtzb4uoh2vqu7lkcshtouf&st=hsk4zfcu&dl=0
+https://mega.nz/folder/eMFnxTaA#V5OzSj5oV3HQ5UltZwehVg
 ```
