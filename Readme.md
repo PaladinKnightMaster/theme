@@ -29,3 +29,8 @@ Translator Engine(SKS):
 ```
 https://mega.nz/file/nJtEkJCI#9lYtd4sT1T8R5BevnFwXYsMvv69LgJ1YNlWozYVVlf8
 ```
+
+ECommerce Platform Screenshot(SKS):
+```
+https://mega.nz/file/eRNUQZ6B#MwqPD8rFDFJaUBFDI4dwldvGpeg-Fioq9hDwDq2U7Lo
+```
