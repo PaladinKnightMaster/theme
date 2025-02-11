@@ -1,10 +1,8 @@
 Download URL:
-SLAM:
 ```
-https://mega.nz/file/LYdmRJqI#ukW47tywPRcT0_RfMuVzgY0tzKF0UekdKuFr2CCMK0o
+https://mega.nz/file/3I1gwBDK#JBvsUxDAMURErcOh23CEdaeHSBCU4VxA-YldSBgej78
 ```
 
-NLP:
 ```
-https://mega.nz/file/XcVjwJJA#So6V4gvRKsi08cOD2izXnGGMLv9CW8c_k7P8G4xa7I0
+https://mega.nz/file/fEsG2L4Q#3S4imYyFnW5maw3TXf1INL9vWuEmIwJQaRuNjN2J1J8
 ```
