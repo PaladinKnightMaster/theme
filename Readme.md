@@ -15,3 +15,12 @@ https://mega.nz/file/aSx2QJSL#naliVl9OwtL5rTu-4ezd0aqgYYQFBEOCgkIM6CSB1x0
 ```
 https://mega.nz/file/qTAS3IJQ#CfjkYF1bbkXYyKYASnOh80C_4Ud47RpPdANRSOKc4gQ
 ```
+
+
+CHATBOT_OLLAMA:
+```
+https://mega.nz/file/zegDXSKa#-5lxHyb5bwDdeVb9WD-JfqzJIjkjkw1xh2Z4cw4OzCw
+```
+```
+https://mega.nz/file/nCBTAAKB#zKUpShLpUB5zHgSjrVzq-zSOeOiLVKKcs5YIA3lKDeY
+```
