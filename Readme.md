@@ -1,13 +1,9 @@
 Download URL:
-CHATBOT_OLLAMA:
+SLAM:
 ```
-https://mega.nz/file/zegDXSKa#-5lxHyb5bwDdeVb9WD-JfqzJIjkjkw1xh2Z4cw4OzCw
-```
-```
-https://mega.nz/file/nCBTAAKB#zKUpShLpUB5zHgSjrVzq-zSOeOiLVKKcs5YIA3lKDeY
+https://drive.google.com/file/d/1RmaKpm6ByJo_o3_S6gkHfZLkLLBAxuun/view?usp=sharing
 ```
 
-Healthcare Bot:
 ```
-https://mega.nz/file/vfQg1A7Q#89bgiFmOSBPOZfXwL3j248-hNhmgiNQhFPxVVoYuNm8
+https://mega.nz/file/3GxGXCyA#9eocMTdMJNztSJvG_wUKFkQMh6WwCELakTGejcMhnd8
 ```
